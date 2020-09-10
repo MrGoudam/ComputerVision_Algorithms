@@ -1,4 +1,3 @@
-# URL Documentation MSS: https://python-mss.readthedocs.io/examples.html
 import numpy as np
 import cv2
 from mss import mss
