@@ -3,7 +3,7 @@ This directory contains basic scripts that allow you to get a picture
 
 
 ## About screenRecording
-More information on mss see [here](https://python-mss.readthedocs.io/examples.html)
+More information on MSS see [here](https://python-mss.readthedocs.io/examples.html)
 
 
 ## Version of libraries
