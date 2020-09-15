@@ -33,7 +33,7 @@ The method of color filters can be used in cases where the object differs signif
 Метод цветовых фильтров можно применять в тех случаях, когда объект существенно отличаться от фона по цвету и освещение равномерно и не изменяется
 
 # About script
-## Version of libraries
+### Version of libraries
 | Lib    		| 	Version
 | :-------:	| :-------:
 | Numpy	|	1.18.4
