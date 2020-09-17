@@ -20,17 +20,6 @@ This method is not independent, but is only an approach to the search and classi
 When we know the shape of an object and we need to find this shape. For example, if we know that an object has the shape of a quadrangle, then we can look for that shape in the image
 
 
-## About script
-This implementation has a very simplified block of rules and is intended only to demonstrate the approach to finding objects in the image.
-
-### Version of libraries
-| Lib    	| 	Version
-| :-------:	| :-------:
-| Numpy	    |	1.18.4
-| OpenCV	|	 4.3.0
-
-
-
 ## О контурном анализе
 ### Описание
 В контурном анализ все сводится к 2 операциям:
@@ -54,6 +43,14 @@ This implementation has a very simplified block of rules and is intended only to
 
 
 
+## About script
+This implementation has a very simplified block of rules and is intended only to demonstrate the approach to finding objects in the image.
+
+### Version of libraries
+| Lib    	| 	Version
+| :-------:	| :-------:
+| Numpy	    |	1.18.4
+| OpenCV	|	 4.3.0
 
 
 
