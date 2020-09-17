@@ -1,4 +1,4 @@
-
+# En
 ## About contour analysis
 ### Description
 In contour analysis, everything comes down to 2 operations: 
@@ -19,7 +19,7 @@ This method is not independent, but is only an approach to the search and classi
 ### When to apply
 When we know the shape of an object and we need to find this shape. For example, if we know that an object has the shape of a quadrangle, then we can look for that shape in the image
 
-
+# Ru
 ## О контурном анализе
 ### Описание
 В контурном анализ все сводится к 2 операциям:
@@ -42,7 +42,7 @@ When we know the shape of an object and we need to find this shape. For example,
 ту форму на изображении
 
 
-
+# En
 ## About script
 This implementation has a very simplified block of rules and is intended only to demonstrate the approach to finding objects in the image.
 
