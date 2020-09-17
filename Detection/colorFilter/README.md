@@ -1,3 +1,4 @@
+# Ru
 ## О цветовом фильтре
 ### Описание
 Метод цветовых фильтров с использованием OpenCV, сводится к вызову метода inRange. Данный метод принимает изображение и ограничивающие значения, и возвращает изображение в виде маски
@@ -12,7 +13,7 @@
 Метод цветовых фильтров можно применять в тех случаях, когда объект существенно отличаться от фона по цвету и освещение равномерно и не изменяется
 
 
-
+# En
 ## About colorFilter
 ### Description
 The color filters method using OpenCV is reduced to calling the inRange method. This method takes an image and a bounding value, and returns an image as a mask.
