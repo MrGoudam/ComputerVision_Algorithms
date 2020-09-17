@@ -1,3 +1,4 @@
+# Ru
 ## О контурном анализе
 ### Описание
 В контурном анализ все сводится к 2 операциям:
@@ -19,6 +20,9 @@
 Когда мы знаем форму объекта и необходимо эту форму найти. Например, если мы знаем, что объект имеет форму четырехугольника, то мы можем поискать 
 ту форму на изображении
 
+
+
+# En
 ## About contour analysis
 ### Description
 In contour analysis, everything comes down to 2 operations: 
@@ -38,6 +42,7 @@ This method is not independent, but is only an approach to the search and classi
 
 ### When to apply
 When we know the shape of an object and we need to find this shape. For example, if we know that an object has the shape of a quadrangle, then we can look for that shape in the image
+
 
 
 ## About script
