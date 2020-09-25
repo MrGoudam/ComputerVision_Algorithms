@@ -16,7 +16,8 @@
 
 ### Недостатки 
 + Запатентованность дескрипторов SIFT и SURF;
-+ Сложность алгоритма.
++ Сложность алгоритма;
++ Не устойчивость к шуму.
 
 ### Недостатки в реализации
 + Не всегда удается корректно создать рамку объекта.
@@ -53,7 +54,8 @@ In order to use the Feature Detection, we need to have a template image and a so
 
 ### Disadvantages
 + Patented SIFT and SURF descriptors;
-+ The algorithm is complex.
++ The algorithm is complex;
++ Not resistant to noise
 
 ### Implementation flaws
 It is not always possible to correctly create an object frame.
