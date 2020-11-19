@@ -37,7 +37,7 @@
 
 
 # En
-## About Feature Detection
+## About Feature Description
 ### Description
 In order to use the Feature Detection, we need to have a template image and a source image (an image for which an object is to be searched for) and perform the following actions: 
 1. Select a descriptor for calculating key points. It can be ORB, SIFT, SURF, FAST, etc.;
