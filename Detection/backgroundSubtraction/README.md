@@ -6,7 +6,7 @@
 Как следует из названия, BS вычисляет маску переднего плана, выполняя вычитание между текущим кадром и моделью фона, содержащей статическую часть сцены или, в более общем смысле, все, что можно рассматривать как фон с учетом характеристик наблюдаемой сцены.
 
 Фоновое моделирование состоит из двух основных этапов:
-1. Инициализация фона;
+1. Инициализация фона.
 2. Обновление фона.
 
 В OpenCV есть 2 алгоритма инициализации фона:
@@ -22,14 +22,14 @@
 За обновления фона, у объектов BackgroundSubtractorKNN и BackgroundSubtractorMOG2, отвечает метод apply, который принимает в качестве аргумента изображение.
 
 ### Требования
-+ Статическая камера;
++ Статичная камера.
 + Статичный фон. 
 
 ### Достоинства
 + Позволяет найти движущиеся объекты на изображении.
 
 ### Недостатки 
-+ На выходной маски остается информация о фоне;
++ На выходной маски остается информация о фоне.
 + Если движется фон, то движение объекта может затеряться.
 
 ### Когда применять
@@ -47,7 +47,7 @@ Background subtraction (BS) is a common and widely used technique for generating
 As the name suggests, BS calculates the foreground mask performing a subtraction between the current frame and a background model, containing the static part of the scene or, more in general, everything that can be considered as background given the characteristics of the observed scene.
 
 Background modeling consists of two main steps:
-1. Background Initialization;
+1. Background Initialization.
 2. Background Update.
 
 OpenCV has 2 background initialization algorithms:
@@ -63,14 +63,14 @@ These algorithms take the following arguments:
 The apply method is responsible for updating the background for the BackgroundSubtractorKNN and BackgroundSubtractorMOG2 objects, which takes an image as an argument.
 
 ### Requirements
-+ Static chamber;
++ Static chamber.
 + Static background.
 
 ### Advantages
 + Finds moving objects in the image.
 
 ### Disadvantages
-+ The background information remains on the output mask;
++ The background information remains on the output mask.
 + If the background is moving, then the movement of the subject may be lost.
 
 ### When to apply
