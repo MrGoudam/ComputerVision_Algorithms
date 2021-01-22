@@ -29,11 +29,11 @@
 + Позволяет найти движущиеся объекты на изображении.
 
 ### Недостатки 
-+ На выходной маски остается информация о фоне.
++ На выходной маске остается информация о фоне.
 + Если движется фон, то движение объекта может затеряться.
 
 ### Когда применять
-+ Когда необходимо найти движущиеся объекты на видео.
++ Алгоритм вычитания фона следует применять тогда, когда необходимо найти движущиеся объекты на видео и условия съемки удовлетворяют требованиям к применению данного алгоритма. 
 
 ### Ссылки на дополнительные источники
 * [Documentation Background Subtractor](https://docs.opencv.org/master/de/de1/group__video__motion.html)
@@ -74,7 +74,7 @@ The apply method is responsible for updating the background for the BackgroundSu
 + If the background is moving, then the movement of the subject may be lost.
 
 ### When to apply
-+ When you need to find moving objects on video.
++ The background subtraction algorithm should be used when it is necessary to find moving objects in the video and the shooting conditions satisfy the requirements for the application of this algorithm.
 
 
 ## About script
